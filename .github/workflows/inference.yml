@@ -77,3 +77,6 @@ jobs:
     
     - name: Run inference
       run: python src/inference.py 
+
+
+
